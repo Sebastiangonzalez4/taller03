@@ -42,7 +42,7 @@ h1{
      font-size: 16px;
      padding: 5px;
     }
- precio.color{
+  .precio {
      color: #020202;
-     
+     background-color: aqua;
  }
